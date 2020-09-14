@@ -1,5 +1,5 @@
 # 信息管理服务端 - mysql数据库
-# 对应客户端（https://github.com/Angel-HW/admin_web）
+## [对应客户端](https://github.com/Angel-HW/admin_web)
 ### 2020.8.24
 * 问题1：跨域问题
 * 解决方法：在创建服务器时加入如下代码，详细见 `app.js` 文件
